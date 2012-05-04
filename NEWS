@@ -1,0 +1,17 @@
+0.0.5, 2012-03-04
+
+ * Support keys 'Esc' (quit; like 'q') and 'F11' (toggle fullscreen).
+
+ * Minor fixes to compile with modern gcc.
+
+ * Advanced to GPL v3+.
+
+ * Imported to github.
+
+0.0.4, 2002-03-16
+
+ * Added --full-screen or -f command line options.
+
+ * Added mini view that may be scaled using grey plus and minus.
+
+ * Bug fixes.

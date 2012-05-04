@@ -1,0 +1,16 @@
+aclocal.m4
+autom4te.cache
+config.*
+configure
+depcomp
+INSTALL
+install-sh
+Makefile
+Makefile.in
+misc
+missing
+mkinstalldirs
+src-*
+.deps
+*.o
+velatron

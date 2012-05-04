@@ -1,0 +1,22 @@
+Welcome to VelaTron.
+
+This is a prototype of a possible game. It was written in 2001.
+
+You need SDL developement files to build it. Building is simple.
+First create "configure" script from autotools (ignore warnings):
+
+	aclocal
+	automake -a
+	autoconf
+
+Then:
+
+	./configure
+	make
+
+To install it, execute "make install", probably as a super user.
+Or just run "src/velatron".
+
+Have fun! :)
+
+Mikhael Goikhman <migo@freeshell.org>
